@@ -1,0 +1,163 @@
+fit3143-student@fit3143:~/Desktop/3143_a2$ make light
+mpirun -oversubscribe -np 43 main
+Please enter M value : 6
+Please enter N value : 7
+Please enter the threshold value( ideally between 5800-6200): 6200
+Enter the number of iterations for the system(before termination): 40
+Base station will run 40 iterations
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6441, timestamp-Fri Oct 29 15:42:32 2021,coord-(0,7), array_size-0 
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6098, timestamp-Fri Oct 29 15:42:35 2021,coord-(4,7), array_size-1 
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-5703, timestamp-Fri Oct 29 15:42:38 2021,coord-(2,2), array_size-2 
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6402, timestamp-Fri Oct 29 15:42:41 2021,coord-(5,7), array_size-3 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-5881, timestamp-Fri Oct 29 15:42:44 2021,coord-(3,1), array_size-4 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6216, timestamp-Fri Oct 29 15:42:47 2021,coord-(6,6), array_size-5 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6289, timestamp-Fri Oct 29 15:42:50 2021,coord-(1,6), array_size-6 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-5820, timestamp-Fri Oct 29 15:42:53 2021,coord-(5,7), array_size-7 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6857, timestamp-Fri Oct 29 15:42:56 2021,coord-(1,3), array_size-8 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Adding satellite readings to queue : reading-6796, timestamp-Fri Oct 29 15:42:59 2021,coord-(5,1), array_size-9 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-6441, timestamp-Fri Oct 29 15:42:32 2021
+,coord-(0,7)
+Adding satellite readings to queue : reading-6416, timestamp-Fri Oct 29 15:42:32 2021
+,coord-(0,2), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-6098, timestamp-Fri Oct 29 15:42:35 2021
+,coord-(4,7)
+Adding satellite readings to queue : reading-6222, timestamp-Fri Oct 29 15:42:35 2021
+,coord-(5,3), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-5703, timestamp-Fri Oct 29 15:42:38 2021
+,coord-(2,2)
+Adding satellite readings to queue : reading-6087, timestamp-Fri Oct 29 15:42:38 2021
+,coord-(0,0), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-6402, timestamp-Fri Oct 29 15:42:41 2021
+,coord-(5,7)
+Adding satellite readings to queue : reading-6769, timestamp-Fri Oct 29 15:42:41 2021
+,coord-(4,5), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-5881, timestamp-Fri Oct 29 15:42:44 2021
+,coord-(3,1)
+Adding satellite readings to queue : reading-6858, timestamp-Fri Oct 29 15:42:44 2021
+,coord-(0,3), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-6216, timestamp-Fri Oct 29 15:42:47 2021
+,coord-(6,6)
+Adding satellite readings to queue : reading-6636, timestamp-Fri Oct 29 15:42:47 2021
+,coord-(6,6), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+
+Satellite generated new reading.
+Removed satellite readings from queue to make way: reading-6289, timestamp-Fri Oct 29 15:42:50 2021
+,coord-(1,6)
+Adding satellite readings to queue : reading-6211, timestamp-Fri Oct 29 15:42:50 2021
+,coord-(5,7), array_size-10 
+
+--------------------------Base station received a report--------------------------
+
+--------------------------Base station received a report--------------------------
+Satellite simulator end.
+Program end. 
+fit3143-student@fit3143:~/Desktop/3143_a2$ 
+

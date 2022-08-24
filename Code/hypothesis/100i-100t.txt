@@ -1,0 +1,2064 @@
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:49 2021
+
+Logging Timestamp: Fri Oct 29 19:59:49 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+9                (x,y)             6226		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6206		252.127.0.0
+10                (x,y)             5934		252.127.0.0
+2                (x,y)             6086		252.127.0.0
+16                (x,y)             6219		252.127.0.0
+Satellite Altimeter reading: 5765
+Satellite Altimeter report time : Fri Oct 29 19:59:46 2021
+Satellite Altimeter coord : (1,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000026
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:49 2021
+
+Logging Timestamp: Fri Oct 29 19:59:50 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+15                (x,y)             6177		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+14                (x,y)             5958		253.127.0.0
+16                (x,y)             6219		253.127.0.0
+8                (x,y)             6206		253.127.0.0
+22                (x,y)             6225		253.127.0.0
+Satellite Altimeter reading: 6699
+Satellite Altimeter report time : Fri Oct 29 19:59:49 2021
+Satellite Altimeter coord : (6,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000079
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:49 2021
+
+Logging Timestamp: Fri Oct 29 19:59:51 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+23                (x,y)             6249		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+22                (x,y)             6225		253.127.0.0
+24                (x,y)             6142		253.127.0.0
+16                (x,y)             6219		253.127.0.0
+30                (x,y)             6287		253.127.0.0
+Satellite Altimeter reading: 6699
+Satellite Altimeter report time : Fri Oct 29 19:59:49 2021
+Satellite Altimeter coord : (6,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000051
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:49 2021
+
+Logging Timestamp: Fri Oct 29 19:59:52 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6139		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6109		255.127.0.0
+21                (x,y)             5966		255.127.0.0
+35                (x,y)             6099		255.127.0.0
+Satellite Altimeter reading: 6699
+Satellite Altimeter report time : Fri Oct 29 19:59:49 2021
+Satellite Altimeter coord : (6,5)
+Number of matching neighbours: 6
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000086
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:49 2021
+
+Logging Timestamp: Fri Oct 29 19:59:53 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+37                (x,y)             6220		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+36                (x,y)             6219		255.127.0.0
+38                (x,y)             5964		255.127.0.0
+30                (x,y)             6287		255.127.0.0
+Satellite Altimeter reading: 6101
+Satellite Altimeter report time : Fri Oct 29 19:59:52 2021
+Satellite Altimeter coord : (3,0)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000628
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:50 2021
+
+Logging Timestamp: Fri Oct 29 19:59:54 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+8                (x,y)             6253		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+7                (x,y)             6088		255.127.0.0
+9                (x,y)             6226		255.127.0.0
+1                (x,y)             5940		255.127.0.0
+15                (x,y)             6177		255.127.0.0
+Satellite Altimeter reading: 6101
+Satellite Altimeter report time : Fri Oct 29 19:59:52 2021
+Satellite Altimeter coord : (3,0)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000301
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 19:59:55 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+38                (x,y)             6180		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+37                (x,y)             6350		252.127.0.0
+39                (x,y)             6200		252.127.0.0
+31                (x,y)             6213		252.127.0.0
+Satellite Altimeter reading: 5759
+Satellite Altimeter report time : Fri Oct 29 19:59:55 2021
+Satellite Altimeter coord : (1,0)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000059
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 19:59:56 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+2                (x,y)             6170		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+1                (x,y)             6093		253.127.0.0
+3                (x,y)             6171		253.127.0.0
+9                (x,y)             6244		253.127.0.0
+Satellite Altimeter reading: 5759
+Satellite Altimeter report time : Fri Oct 29 19:59:55 2021
+Satellite Altimeter coord : (1,0)
+Number of matching neighbours: 6
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000100
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 19:59:57 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+3                (x,y)             6171		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+2                (x,y)             6121		255.127.0.0
+4                (x,y)             6233		255.127.0.0
+10                (x,y)             5993		255.127.0.0
+Satellite Altimeter reading: 5759
+Satellite Altimeter report time : Fri Oct 29 19:59:55 2021
+Satellite Altimeter coord : (1,0)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000108
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 19:59:58 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+5                (x,y)             6106		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+4                (x,y)             6339		254.127.0.0
+6                (x,y)             6140		254.127.0.0
+12                (x,y)             6038		254.127.0.0
+Satellite Altimeter reading: 6370
+Satellite Altimeter report time : Fri Oct 29 19:59:58 2021
+Satellite Altimeter coord : (3,7)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000118
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 19:59:59 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+8                (x,y)             6288		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+7                (x,y)             6116		255.127.0.0
+9                (x,y)             6244		255.127.0.0
+1                (x,y)             5975		255.127.0.0
+15                (x,y)             6219		255.127.0.0
+Satellite Altimeter reading: 6370
+Satellite Altimeter report time : Fri Oct 29 19:59:58 2021
+Satellite Altimeter coord : (3,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000056
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:50 2021
+
+Logging Timestamp: Fri Oct 29 20:00:00 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+9                (x,y)             6244		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6253		252.127.0.0
+10                (x,y)             5978		252.127.0.0
+2                (x,y)             6121		252.127.0.0
+16                (x,y)             6333		252.127.0.0
+Satellite Altimeter reading: 6370
+Satellite Altimeter report time : Fri Oct 29 19:59:58 2021
+Satellite Altimeter coord : (3,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000036
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:01 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+12                (x,y)             6166		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+11                (x,y)             6431		252.127.0.0
+13                (x,y)             6426		252.127.0.0
+5                (x,y)             6106		252.127.0.0
+19                (x,y)             6132		252.127.0.0
+Satellite Altimeter reading: 6201
+Satellite Altimeter report time : Fri Oct 29 20:00:01 2021
+Satellite Altimeter coord : (0,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000117
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:50 2021
+
+Logging Timestamp: Fri Oct 29 20:00:02 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+15                (x,y)             6219		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+14                (x,y)             5984		253.127.0.0
+16                (x,y)             6333		253.127.0.0
+8                (x,y)             6253		253.127.0.0
+22                (x,y)             6279		253.127.0.0
+Satellite Altimeter reading: 6201
+Satellite Altimeter report time : Fri Oct 29 20:00:01 2021
+Satellite Altimeter coord : (0,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000091
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:03 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+17                (x,y)             6113		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+16                (x,y)             6398		254.127.0.0
+18                (x,y)             6136		254.127.0.0
+10                (x,y)             6096		254.127.0.0
+24                (x,y)             6281		254.127.0.0
+Satellite Altimeter reading: 6201
+Satellite Altimeter report time : Fri Oct 29 20:00:01 2021
+Satellite Altimeter coord : (0,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000095
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:04 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+18                (x,y)             6136		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+17                (x,y)             6095		255.127.0.0
+19                (x,y)             6086		255.127.0.0
+11                (x,y)             6415		255.127.0.0
+25                (x,y)             6195		255.127.0.0
+Satellite Altimeter reading: 6578
+Satellite Altimeter report time : Fri Oct 29 20:00:04 2021
+Satellite Altimeter coord : (0,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000074
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:05 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+19                (x,y)             6132		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+18                (x,y)             6136		252.127.0.0
+20                (x,y)             6096		252.127.0.0
+12                (x,y)             6046		252.127.0.0
+26                (x,y)             6059		252.127.0.0
+Satellite Altimeter reading: 6578
+Satellite Altimeter report time : Fri Oct 29 20:00:04 2021
+Satellite Altimeter coord : (0,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000105
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:50 2021
+
+Logging Timestamp: Fri Oct 29 20:00:06 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+23                (x,y)             6254		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+22                (x,y)             6279		253.127.0.0
+24                (x,y)             6233		253.127.0.0
+16                (x,y)             6333		253.127.0.0
+30                (x,y)             6359		253.127.0.0
+Satellite Altimeter reading: 6578
+Satellite Altimeter report time : Fri Oct 29 20:00:04 2021
+Satellite Altimeter coord : (0,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000027
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:07 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+24                (x,y)             6281		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+23                (x,y)             6314		255.127.0.0
+25                (x,y)             6195		255.127.0.0
+17                (x,y)             6095		255.127.0.0
+31                (x,y)             6177		255.127.0.0
+Satellite Altimeter reading: 6258
+Satellite Altimeter report time : Fri Oct 29 20:00:07 2021
+Satellite Altimeter coord : (2,5)
+Number of matching neighbours: 12
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000063
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:08 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+25                (x,y)             6242		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+24                (x,y)             6281		254.127.0.0
+26                (x,y)             6147		254.127.0.0
+18                (x,y)             6136		254.127.0.0
+32                (x,y)             6162		254.127.0.0
+Satellite Altimeter reading: 6258
+Satellite Altimeter report time : Fri Oct 29 20:00:07 2021
+Satellite Altimeter coord : (2,5)
+Number of matching neighbours: 12
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000123
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:09 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+26                (x,y)             6147		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+25                (x,y)             6195		253.127.0.0
+27                (x,y)             6227		253.127.0.0
+19                (x,y)             6132		253.127.0.0
+33                (x,y)             6461		253.127.0.0
+Satellite Altimeter reading: 6258
+Satellite Altimeter report time : Fri Oct 29 20:00:07 2021
+Satellite Altimeter coord : (2,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000125
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:50 2021
+
+Logging Timestamp: Fri Oct 29 20:00:10 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6201		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6171		255.127.0.0
+21                (x,y)             6009		255.127.0.0
+35                (x,y)             6163		255.127.0.0
+Satellite Altimeter reading: 6626
+Satellite Altimeter report time : Fri Oct 29 20:00:10 2021
+Satellite Altimeter coord : (4,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000047
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:11 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+29                (x,y)             6216		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+28                (x,y)             6201		252.127.0.0
+30                (x,y)             6460		252.127.0.0
+22                (x,y)             6347		252.127.0.0
+36                (x,y)             6293		252.127.0.0
+Satellite Altimeter reading: 6626
+Satellite Altimeter report time : Fri Oct 29 20:00:10 2021
+Satellite Altimeter coord : (4,1)
+Number of matching neighbours: 12
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000120
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:12 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+32                (x,y)             6162		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+31                (x,y)             6213		254.127.0.0
+33                (x,y)             6335		254.127.0.0
+25                (x,y)             6195		254.127.0.0
+39                (x,y)             6195		254.127.0.0
+Satellite Altimeter reading: 6626
+Satellite Altimeter report time : Fri Oct 29 20:00:10 2021
+Satellite Altimeter coord : (4,1)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000104
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:13 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+34                (x,y)             6236		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+33                (x,y)             6335		253.127.0.0
+27                (x,y)             6198		253.127.0.0
+41                (x,y)             6190		253.127.0.0
+Satellite Altimeter reading: 6565
+Satellite Altimeter report time : Fri Oct 29 20:00:13 2021
+Satellite Altimeter coord : (4,1)
+Number of matching neighbours: 9
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000118
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:14 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+2                (x,y)             6220		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+1                (x,y)             6148		253.127.0.0
+3                (x,y)             6243		253.127.0.0
+9                (x,y)             6292		253.127.0.0
+Satellite Altimeter reading: 6565
+Satellite Altimeter report time : Fri Oct 29 20:00:13 2021
+Satellite Altimeter coord : (4,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000036
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:15 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+3                (x,y)             6243		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+2                (x,y)             6170		255.127.0.0
+4                (x,y)             6339		255.127.0.0
+10                (x,y)             6096		255.127.0.0
+Satellite Altimeter reading: 6565
+Satellite Altimeter report time : Fri Oct 29 20:00:13 2021
+Satellite Altimeter coord : (4,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000089
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:16 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+9                (x,y)             6384		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6352		252.127.0.0
+10                (x,y)             6096		252.127.0.0
+2                (x,y)             6220		252.127.0.0
+16                (x,y)             6398		252.127.0.0
+Satellite Altimeter reading: 6768
+Satellite Altimeter report time : Fri Oct 29 20:00:16 2021
+Satellite Altimeter coord : (1,6)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000120
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:17 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+15                (x,y)             6285		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+14                (x,y)             6052		253.127.0.0
+16                (x,y)             6398		253.127.0.0
+8                (x,y)             6352		253.127.0.0
+22                (x,y)             6378		253.127.0.0
+Satellite Altimeter reading: 6768
+Satellite Altimeter report time : Fri Oct 29 20:00:16 2021
+Satellite Altimeter coord : (1,6)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000085
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:18 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+18                (x,y)             6150		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+17                (x,y)             6113		255.127.0.0
+19                (x,y)             6132		255.127.0.0
+11                (x,y)             6431		255.127.0.0
+25                (x,y)             6242		255.127.0.0
+Satellite Altimeter reading: 6768
+Satellite Altimeter report time : Fri Oct 29 20:00:16 2021
+Satellite Altimeter coord : (1,6)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000079
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:19 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+19                (x,y)             6132		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+18                (x,y)             6150		252.127.0.0
+20                (x,y)             6100		252.127.0.0
+12                (x,y)             6038		252.127.0.0
+26                (x,y)             6147		252.127.0.0
+Satellite Altimeter reading: 6117
+Satellite Altimeter report time : Fri Oct 29 20:00:19 2021
+Satellite Altimeter coord : (0,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000058
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:20 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+23                (x,y)             6314		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+22                (x,y)             6347		253.127.0.0
+24                (x,y)             6250		253.127.0.0
+16                (x,y)             6398		253.127.0.0
+30                (x,y)             6460		253.127.0.0
+Satellite Altimeter reading: 6117
+Satellite Altimeter report time : Fri Oct 29 20:00:19 2021
+Satellite Altimeter coord : (0,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000041
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:51 2021
+
+Logging Timestamp: Fri Oct 29 20:00:21 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6234		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6216		255.127.0.0
+21                (x,y)             6025		255.127.0.0
+35                (x,y)             6177		255.127.0.0
+Satellite Altimeter reading: 6117
+Satellite Altimeter report time : Fri Oct 29 20:00:19 2021
+Satellite Altimeter coord : (0,5)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000038
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:22 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+29                (x,y)             6291		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+28                (x,y)             6234		252.127.0.0
+30                (x,y)             6558		252.127.0.0
+22                (x,y)             6378		252.127.0.0
+36                (x,y)             6409		252.127.0.0
+Satellite Altimeter reading: 6339
+Satellite Altimeter report time : Fri Oct 29 20:00:22 2021
+Satellite Altimeter coord : (3,2)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000094
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:23 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+34                (x,y)             6236		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+33                (x,y)             6461		253.127.0.0
+27                (x,y)             6227		253.127.0.0
+41                (x,y)             6275		253.127.0.0
+Satellite Altimeter reading: 6339
+Satellite Altimeter report time : Fri Oct 29 20:00:22 2021
+Satellite Altimeter coord : (3,2)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000018
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:24 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+23                (x,y)             6360		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+22                (x,y)             6378		253.127.0.0
+24                (x,y)             6281		253.127.0.0
+16                (x,y)             6398		253.127.0.0
+30                (x,y)             6558		253.127.0.0
+Satellite Altimeter reading: 6339
+Satellite Altimeter report time : Fri Oct 29 20:00:22 2021
+Satellite Altimeter coord : (3,2)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000069
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:25 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+14                (x,y)             6113		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+15                (x,y)             6285		254.127.0.0
+7                (x,y)             6204		254.127.0.0
+21                (x,y)             6050		254.127.0.0
+Satellite Altimeter reading: 6383
+Satellite Altimeter report time : Fri Oct 29 20:00:25 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000348
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:26 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+24                (x,y)             6317		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+23                (x,y)             6401		255.127.0.0
+25                (x,y)             6297		255.127.0.0
+17                (x,y)             6113		255.127.0.0
+31                (x,y)             6303		255.127.0.0
+Satellite Altimeter reading: 6383
+Satellite Altimeter report time : Fri Oct 29 20:00:25 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000060
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:27 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+25                (x,y)             6238		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+24                (x,y)             6317		254.127.0.0
+26                (x,y)             6127		254.127.0.0
+18                (x,y)             6113		254.127.0.0
+32                (x,y)             6177		254.127.0.0
+Satellite Altimeter reading: 6383
+Satellite Altimeter report time : Fri Oct 29 20:00:25 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000075
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:28 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+27                (x,y)             6201		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+26                (x,y)             6127		252.127.0.0
+20                (x,y)             6155		252.127.0.0
+34                (x,y)             6211		252.127.0.0
+Satellite Altimeter reading: 6240
+Satellite Altimeter report time : Fri Oct 29 20:00:28 2021
+Satellite Altimeter coord : (5,1)
+Number of matching neighbours: 15
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000089
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:52 2021
+
+Logging Timestamp: Fri Oct 29 20:00:29 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6290		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6291		255.127.0.0
+21                (x,y)             6050		255.127.0.0
+35                (x,y)             6236		255.127.0.0
+Satellite Altimeter reading: 6240
+Satellite Altimeter report time : Fri Oct 29 20:00:28 2021
+Satellite Altimeter coord : (5,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000071
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:30 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+29                (x,y)             6336		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+28                (x,y)             6290		252.127.0.0
+30                (x,y)             6631		252.127.0.0
+22                (x,y)             6464		252.127.0.0
+36                (x,y)             6390		252.127.0.0
+Satellite Altimeter reading: 6240
+Satellite Altimeter report time : Fri Oct 29 20:00:28 2021
+Satellite Altimeter coord : (5,1)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000100
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:31 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+31                (x,y)             6232		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+30                (x,y)             6634		252.127.0.0
+32                (x,y)             6177		252.127.0.0
+24                (x,y)             6262		252.127.0.0
+38                (x,y)             6191		252.127.0.0
+Satellite Altimeter reading: 6266
+Satellite Altimeter report time : Fri Oct 29 20:00:31 2021
+Satellite Altimeter coord : (3,0)
+Number of matching neighbours: 24
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000083
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:32 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+36                (x,y)             6390		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+35                (x,y)             6236		254.127.0.0
+37                (x,y)             6350		254.127.0.0
+29                (x,y)             6291		254.127.0.0
+Satellite Altimeter reading: 6266
+Satellite Altimeter report time : Fri Oct 29 20:00:31 2021
+Satellite Altimeter coord : (3,0)
+Number of matching neighbours: 18
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000118
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:33 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+38                (x,y)             6191		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+37                (x,y)             6328		252.127.0.0
+39                (x,y)             6221		252.127.0.0
+31                (x,y)             6283		252.127.0.0
+Satellite Altimeter reading: 6266
+Satellite Altimeter report time : Fri Oct 29 20:00:31 2021
+Satellite Altimeter coord : (3,0)
+Number of matching neighbours: 6
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000077
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:34 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+39                (x,y)             6236		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+38                (x,y)             6180		254.127.0.0
+40                (x,y)             6376		254.127.0.0
+32                (x,y)             6138		254.127.0.0
+Satellite Altimeter reading: 6280
+Satellite Altimeter report time : Fri Oct 29 20:00:34 2021
+Satellite Altimeter coord : (1,1)
+Number of matching neighbours: 12
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000093
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:35 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+40                (x,y)             6376		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+39                (x,y)             6200		254.127.0.0
+41                (x,y)             6297		254.127.0.0
+33                (x,y)             6461		254.127.0.0
+Satellite Altimeter reading: 6280
+Satellite Altimeter report time : Fri Oct 29 20:00:34 2021
+Satellite Altimeter coord : (1,1)
+Number of matching neighbours: 21
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000186
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:36 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+2                (x,y)             6200		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+1                (x,y)             6102		253.127.0.0
+3                (x,y)             6289		253.127.0.0
+9                (x,y)             6384		253.127.0.0
+Satellite Altimeter reading: 6280
+Satellite Altimeter report time : Fri Oct 29 20:00:34 2021
+Satellite Altimeter coord : (1,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000112
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:37 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+3                (x,y)             6289		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+2                (x,y)             6220		255.127.0.0
+4                (x,y)             6244		255.127.0.0
+10                (x,y)             6118		255.127.0.0
+Satellite Altimeter reading: 6549
+Satellite Altimeter report time : Fri Oct 29 20:00:37 2021
+Satellite Altimeter coord : (4,0)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000041
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:38 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+5                (x,y)             6170		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+4                (x,y)             6244		254.127.0.0
+6                (x,y)             6220		254.127.0.0
+12                (x,y)             6166		254.127.0.0
+Satellite Altimeter reading: 6549
+Satellite Altimeter report time : Fri Oct 29 20:00:37 2021
+Satellite Altimeter coord : (4,0)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000183
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:39 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+9                (x,y)             6381		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6392		252.127.0.0
+10                (x,y)             6118		252.127.0.0
+2                (x,y)             6200		252.127.0.0
+16                (x,y)             6393		252.127.0.0
+Satellite Altimeter reading: 6549
+Satellite Altimeter report time : Fri Oct 29 20:00:37 2021
+Satellite Altimeter coord : (4,0)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000073
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:40 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+12                (x,y)             6152		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+11                (x,y)             6485		252.127.0.0
+13                (x,y)             6386		252.127.0.0
+5                (x,y)             6170		252.127.0.0
+19                (x,y)             6157		252.127.0.0
+Satellite Altimeter reading: 5767
+Satellite Altimeter report time : Fri Oct 29 20:00:40 2021
+Satellite Altimeter coord : (4,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000095
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:41 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+16                (x,y)             6393		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+15                (x,y)             6285		254.127.0.0
+17                (x,y)             6113		254.127.0.0
+9                (x,y)             6384		254.127.0.0
+23                (x,y)             6360		254.127.0.0
+Satellite Altimeter reading: 5767
+Satellite Altimeter report time : Fri Oct 29 20:00:40 2021
+Satellite Altimeter coord : (4,5)
+Number of matching neighbours: 16
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000327
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:42 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+17                (x,y)             6113		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+16                (x,y)             6393		254.127.0.0
+18                (x,y)             6150		254.127.0.0
+10                (x,y)             6118		254.127.0.0
+24                (x,y)             6360		254.127.0.0
+Satellite Altimeter reading: 5767
+Satellite Altimeter report time : Fri Oct 29 20:00:40 2021
+Satellite Altimeter coord : (4,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000099
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:43 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+19                (x,y)             6157		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+18                (x,y)             6113		252.127.0.0
+20                (x,y)             6155		252.127.0.0
+12                (x,y)             6166		252.127.0.0
+26                (x,y)             6024		252.127.0.0
+Satellite Altimeter reading: 5896
+Satellite Altimeter report time : Fri Oct 29 20:00:43 2021
+Satellite Altimeter coord : (1,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000118
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:44 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+23                (x,y)             6401		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+22                (x,y)             6464		253.127.0.0
+24                (x,y)             6360		253.127.0.0
+16                (x,y)             6393		253.127.0.0
+30                (x,y)             6631		253.127.0.0
+Satellite Altimeter reading: 5896
+Satellite Altimeter report time : Fri Oct 29 20:00:43 2021
+Satellite Altimeter coord : (1,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000071
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:45 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+24                (x,y)             6262		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+23                (x,y)             6409		255.127.0.0
+25                (x,y)             6238		255.127.0.0
+17                (x,y)             6098		255.127.0.0
+31                (x,y)             6283		255.127.0.0
+Satellite Altimeter reading: 5896
+Satellite Altimeter report time : Fri Oct 29 20:00:43 2021
+Satellite Altimeter coord : (1,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000090
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:53 2021
+
+Logging Timestamp: Fri Oct 29 20:00:46 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6320		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6336		255.127.0.0
+21                (x,y)             6157		255.127.0.0
+35                (x,y)             6233		255.127.0.0
+Satellite Altimeter reading: 6146
+Satellite Altimeter report time : Fri Oct 29 20:00:46 2021
+Satellite Altimeter coord : (3,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000071
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:47 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+29                (x,y)             6336		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+28                (x,y)             6320		252.127.0.0
+30                (x,y)             6634		252.127.0.0
+22                (x,y)             6503		252.127.0.0
+36                (x,y)             6390		252.127.0.0
+Satellite Altimeter reading: 6146
+Satellite Altimeter report time : Fri Oct 29 20:00:46 2021
+Satellite Altimeter coord : (3,1)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000027
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:48 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+36                (x,y)             6390		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+35                (x,y)             6233		254.127.0.0
+37                (x,y)             6354		254.127.0.0
+29                (x,y)             6336		254.127.0.0
+Satellite Altimeter reading: 6146
+Satellite Altimeter report time : Fri Oct 29 20:00:46 2021
+Satellite Altimeter coord : (3,1)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000050
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:49 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+39                (x,y)             6221		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+38                (x,y)             6124		254.127.0.0
+40                (x,y)             6267		254.127.0.0
+32                (x,y)             6177		254.127.0.0
+Satellite Altimeter reading: 6939
+Satellite Altimeter report time : Fri Oct 29 20:00:49 2021
+Satellite Altimeter coord : (1,7)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000058
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:50 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+40                (x,y)             6267		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+39                (x,y)             6236		254.127.0.0
+41                (x,y)             6325		254.127.0.0
+33                (x,y)             6382		254.127.0.0
+Satellite Altimeter reading: 6939
+Satellite Altimeter report time : Fri Oct 29 20:00:49 2021
+Satellite Altimeter coord : (1,7)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.001023
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:51 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+12                (x,y)             6148		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+11                (x,y)             6395		252.127.0.0
+13                (x,y)             6410		252.127.0.0
+5                (x,y)             6138		252.127.0.0
+19                (x,y)             6201		252.127.0.0
+Satellite Altimeter reading: 6939
+Satellite Altimeter report time : Fri Oct 29 20:00:49 2021
+Satellite Altimeter coord : (1,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000059
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:52 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+16                (x,y)             6344		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+15                (x,y)             6174		254.127.0.0
+17                (x,y)             6113		254.127.0.0
+9                (x,y)             6381		254.127.0.0
+23                (x,y)             6401		254.127.0.0
+Satellite Altimeter reading: 5798
+Satellite Altimeter report time : Fri Oct 29 20:00:52 2021
+Satellite Altimeter coord : (2,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000042
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:53 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+19                (x,y)             6201		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+18                (x,y)             6062		252.127.0.0
+20                (x,y)             6264		252.127.0.0
+12                (x,y)             6152		252.127.0.0
+26                (x,y)             6127		252.127.0.0
+Satellite Altimeter reading: 5798
+Satellite Altimeter report time : Fri Oct 29 20:00:52 2021
+Satellite Altimeter coord : (2,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000079
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:54 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+23                (x,y)             6409		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+22                (x,y)             6503		253.127.0.0
+24                (x,y)             6317		253.127.0.0
+16                (x,y)             6344		253.127.0.0
+30                (x,y)             6634		253.127.0.0
+Satellite Altimeter reading: 5798
+Satellite Altimeter report time : Fri Oct 29 20:00:52 2021
+Satellite Altimeter coord : (2,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000021
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:54 2021
+
+Logging Timestamp: Fri Oct 29 20:00:55 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6274		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6336		255.127.0.0
+21                (x,y)             6193		255.127.0.0
+35                (x,y)             6184		255.127.0.0
+Satellite Altimeter reading: 6664
+Satellite Altimeter report time : Fri Oct 29 20:00:55 2021
+Satellite Altimeter coord : (4,5)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000045
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:00:56 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+32                (x,y)             6143		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+31                (x,y)             6232		254.127.0.0
+33                (x,y)             6327		254.127.0.0
+25                (x,y)             6238		254.127.0.0
+39                (x,y)             6221		254.127.0.0
+Satellite Altimeter reading: 6664
+Satellite Altimeter report time : Fri Oct 29 20:00:55 2021
+Satellite Altimeter coord : (4,5)
+Number of matching neighbours: 12
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000059
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:00:57 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+29                (x,y)             6261		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+28                (x,y)             6274		252.127.0.0
+30                (x,y)             6609		252.127.0.0
+22                (x,y)             6478		252.127.0.0
+36                (x,y)             6357		252.127.0.0
+Satellite Altimeter reading: 6664
+Satellite Altimeter report time : Fri Oct 29 20:00:55 2021
+Satellite Altimeter coord : (4,5)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000051
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:00:58 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+31                (x,y)             6199		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+30                (x,y)             6609		252.127.0.0
+32                (x,y)             6143		252.127.0.0
+24                (x,y)             6256		252.127.0.0
+38                (x,y)             6198		252.127.0.0
+Satellite Altimeter reading: 6814
+Satellite Altimeter report time : Fri Oct 29 20:00:58 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000097
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:00:59 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+32                (x,y)             6262		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+31                (x,y)             6199		254.127.0.0
+33                (x,y)             6283		254.127.0.0
+25                (x,y)             6251		254.127.0.0
+39                (x,y)             6184		254.127.0.0
+Satellite Altimeter reading: 6814
+Satellite Altimeter report time : Fri Oct 29 20:00:58 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000106
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:00 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+33                (x,y)             6283		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+32                (x,y)             6143		253.127.0.0
+34                (x,y)             6211		253.127.0.0
+26                (x,y)             6127		253.127.0.0
+40                (x,y)             6284		253.127.0.0
+Satellite Altimeter reading: 6814
+Satellite Altimeter report time : Fri Oct 29 20:00:58 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 24
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000089
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:01 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+36                (x,y)             6357		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+35                (x,y)             6184		254.127.0.0
+37                (x,y)             6328		254.127.0.0
+29                (x,y)             6336		254.127.0.0
+Satellite Altimeter reading: 6229
+Satellite Altimeter report time : Fri Oct 29 20:01:01 2021
+Satellite Altimeter coord : (1,3)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000073
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:02 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+38                (x,y)             6198		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+37                (x,y)             6345		252.127.0.0
+39                (x,y)             6184		252.127.0.0
+31                (x,y)             6232		252.127.0.0
+Satellite Altimeter reading: 6229
+Satellite Altimeter report time : Fri Oct 29 20:01:01 2021
+Satellite Altimeter coord : (1,3)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000096
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:03 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+39                (x,y)             6184		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+38                (x,y)             6191		254.127.0.0
+40                (x,y)             6284		254.127.0.0
+32                (x,y)             6143		254.127.0.0
+Satellite Altimeter reading: 6229
+Satellite Altimeter report time : Fri Oct 29 20:01:01 2021
+Satellite Altimeter coord : (1,3)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000118
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:04 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+40                (x,y)             6284		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+39                (x,y)             6221		254.127.0.0
+41                (x,y)             6428		254.127.0.0
+33                (x,y)             6327		254.127.0.0
+Satellite Altimeter reading: 5792
+Satellite Altimeter report time : Fri Oct 29 20:01:04 2021
+Satellite Altimeter coord : (3,7)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000162
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:05 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+2                (x,y)             6237		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+1                (x,y)             6275		253.127.0.0
+3                (x,y)             6292		253.127.0.0
+9                (x,y)             6291		253.127.0.0
+Satellite Altimeter reading: 5792
+Satellite Altimeter report time : Fri Oct 29 20:01:04 2021
+Satellite Altimeter coord : (3,7)
+Number of matching neighbours: 6
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000070
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:06 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+4                (x,y)             6315		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+3                (x,y)             6329		254.127.0.0
+5                (x,y)             6138		254.127.0.0
+11                (x,y)             6395		254.127.0.0
+Satellite Altimeter reading: 5792
+Satellite Altimeter report time : Fri Oct 29 20:01:04 2021
+Satellite Altimeter coord : (3,7)
+Number of matching neighbours: 21
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000100
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:07 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+5                (x,y)             6191		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+4                (x,y)             6315		254.127.0.0
+6                (x,y)             6239		254.127.0.0
+12                (x,y)             6148		254.127.0.0
+Satellite Altimeter reading: 5627
+Satellite Altimeter report time : Fri Oct 29 20:01:07 2021
+Satellite Altimeter coord : (0,1)
+Number of matching neighbours: 6
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000085
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:08 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+7                (x,y)             6419		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6477		252.127.0.0
+0                (x,y)             6412		252.127.0.0
+14                (x,y)             6146		252.127.0.0
+Satellite Altimeter reading: 5627
+Satellite Altimeter report time : Fri Oct 29 20:01:07 2021
+Satellite Altimeter coord : (0,1)
+Number of matching neighbours: 21
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000084
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:09 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+9                (x,y)             6319		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6509		252.127.0.0
+10                (x,y)             6153		252.127.0.0
+2                (x,y)             6237		252.127.0.0
+16                (x,y)             6328		252.127.0.0
+Satellite Altimeter reading: 5627
+Satellite Altimeter report time : Fri Oct 29 20:01:07 2021
+Satellite Altimeter coord : (0,1)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000073
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:10 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+12                (x,y)             6189		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+11                (x,y)             6456		252.127.0.0
+13                (x,y)             6451		252.127.0.0
+5                (x,y)             6191		252.127.0.0
+19                (x,y)             6217		252.127.0.0
+Satellite Altimeter reading: 6518
+Satellite Altimeter report time : Fri Oct 29 20:01:10 2021
+Satellite Altimeter coord : (4,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000118
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:11 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+16                (x,y)             6328		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+15                (x,y)             6232		254.127.0.0
+17                (x,y)             6098		254.127.0.0
+9                (x,y)             6291		254.127.0.0
+23                (x,y)             6409		254.127.0.0
+Satellite Altimeter reading: 6518
+Satellite Altimeter report time : Fri Oct 29 20:01:10 2021
+Satellite Altimeter coord : (4,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000033
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:12 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+17                (x,y)             6191		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+16                (x,y)             6328		254.127.0.0
+18                (x,y)             6062		254.127.0.0
+10                (x,y)             6153		254.127.0.0
+24                (x,y)             6262		254.127.0.0
+Satellite Altimeter reading: 6518
+Satellite Altimeter report time : Fri Oct 29 20:01:10 2021
+Satellite Altimeter coord : (4,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000051
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:13 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+18                (x,y)             6128		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+17                (x,y)             6191		255.127.0.0
+19                (x,y)             6201		255.127.0.0
+11                (x,y)             6456		255.127.0.0
+25                (x,y)             6251		255.127.0.0
+Satellite Altimeter reading: 5967
+Satellite Altimeter report time : Fri Oct 29 20:01:13 2021
+Satellite Altimeter coord : (0,7)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000076
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:14 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+19                (x,y)             6217		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+18                (x,y)             6128		252.127.0.0
+20                (x,y)             6337		252.127.0.0
+12                (x,y)             6148		252.127.0.0
+26                (x,y)             6179		252.127.0.0
+Satellite Altimeter reading: 5967
+Satellite Altimeter report time : Fri Oct 29 20:01:13 2021
+Satellite Altimeter coord : (0,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000027
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:15 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+24                (x,y)             6256		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+23                (x,y)             6482		255.127.0.0
+25                (x,y)             6251		255.127.0.0
+17                (x,y)             6191		255.127.0.0
+31                (x,y)             6232		255.127.0.0
+Satellite Altimeter reading: 5967
+Satellite Altimeter report time : Fri Oct 29 20:01:13 2021
+Satellite Altimeter coord : (0,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000067
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:16 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+25                (x,y)             6251		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+24                (x,y)             6262		254.127.0.0
+26                (x,y)             6179		254.127.0.0
+18                (x,y)             6062		254.127.0.0
+32                (x,y)             6143		254.127.0.0
+Satellite Altimeter reading: 5780
+Satellite Altimeter report time : Fri Oct 29 20:01:16 2021
+Satellite Altimeter coord : (0,7)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000116
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:17 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+26                (x,y)             6179		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+25                (x,y)             6238		253.127.0.0
+27                (x,y)             6201		253.127.0.0
+19                (x,y)             6201		253.127.0.0
+33                (x,y)             6283		253.127.0.0
+Satellite Altimeter reading: 5780
+Satellite Altimeter report time : Fri Oct 29 20:01:16 2021
+Satellite Altimeter coord : (0,7)
+Number of matching neighbours: 8
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000046
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:55 2021
+
+Logging Timestamp: Fri Oct 29 20:01:18 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+28                (x,y)             6286		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+29                (x,y)             6261		255.127.0.0
+21                (x,y)             6267		255.127.0.0
+35                (x,y)             6230		255.127.0.0
+Satellite Altimeter reading: 5780
+Satellite Altimeter report time : Fri Oct 29 20:01:16 2021
+Satellite Altimeter coord : (0,7)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000090
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:19 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+29                (x,y)             6250		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+28                (x,y)             6286		252.127.0.0
+30                (x,y)             6506		252.127.0.0
+22                (x,y)             6449		252.127.0.0
+36                (x,y)             6244		252.127.0.0
+Satellite Altimeter reading: 6069
+Satellite Altimeter report time : Fri Oct 29 20:01:19 2021
+Satellite Altimeter coord : (3,3)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000069
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:20 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+33                (x,y)             6216		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+32                (x,y)             6262		253.127.0.0
+34                (x,y)             6117		253.127.0.0
+26                (x,y)             6179		253.127.0.0
+40                (x,y)             6295		253.127.0.0
+Satellite Altimeter reading: 6069
+Satellite Altimeter report time : Fri Oct 29 20:01:19 2021
+Satellite Altimeter coord : (3,3)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000113
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:21 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+36                (x,y)             6244		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+35                (x,y)             6230		254.127.0.0
+37                (x,y)             6345		254.127.0.0
+29                (x,y)             6261		254.127.0.0
+Satellite Altimeter reading: 6069
+Satellite Altimeter report time : Fri Oct 29 20:01:19 2021
+Satellite Altimeter coord : (3,3)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000085
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:22 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+2                (x,y)             6275		253.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+1                (x,y)             6339		253.127.0.0
+3                (x,y)             6293		253.127.0.0
+9                (x,y)             6319		253.127.0.0
+Satellite Altimeter reading: 6586
+Satellite Altimeter report time : Fri Oct 29 20:01:22 2021
+Satellite Altimeter coord : (6,2)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000144
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:23 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+5                (x,y)             6261		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+4                (x,y)             6424		254.127.0.0
+6                (x,y)             6285		254.127.0.0
+12                (x,y)             6189		254.127.0.0
+Satellite Altimeter reading: 6586
+Satellite Altimeter report time : Fri Oct 29 20:01:22 2021
+Satellite Altimeter coord : (6,2)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.001842
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:24 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+9                (x,y)             6355		252.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+8                (x,y)             6477		252.127.0.0
+10                (x,y)             6061		252.127.0.0
+2                (x,y)             6275		252.127.0.0
+16                (x,y)             6288		252.127.0.0
+Satellite Altimeter reading: 6586
+Satellite Altimeter report time : Fri Oct 29 20:01:22 2021
+Satellite Altimeter coord : (6,2)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000113
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:25 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+16                (x,y)             6288		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+15                (x,y)             6153		254.127.0.0
+17                (x,y)             6191		254.127.0.0
+9                (x,y)             6319		254.127.0.0
+23                (x,y)             6482		254.127.0.0
+Satellite Altimeter reading: 6353
+Satellite Altimeter report time : Fri Oct 29 20:01:25 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000092
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:26 2021
+
+ALERT TYPE: TRUE
+Reporting Node 	   Coord		Height		IPv4
+17                (x,y)             6285		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+16                (x,y)             6288		254.127.0.0
+18                (x,y)             6128		254.127.0.0
+10                (x,y)             6061		254.127.0.0
+24                (x,y)             6256		254.127.0.0
+Satellite Altimeter reading: 6353
+Satellite Altimeter report time : Fri Oct 29 20:01:25 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000058
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:27 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+39                (x,y)             6167		254.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+38                (x,y)             6198		254.127.0.0
+40                (x,y)             6295		254.127.0.0
+32                (x,y)             6262		254.127.0.0
+Satellite Altimeter reading: 6353
+Satellite Altimeter report time : Fri Oct 29 20:01:25 2021
+Satellite Altimeter coord : (3,4)
+Number of matching neighbours: 3
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.000036
+Max. tolerance range between nodes readings (m): 100 
+------------------------------------------------------
+Sensor Alert reporting Timestamp: Fri Oct 29 19:59:56 2021
+
+Logging Timestamp: Fri Oct 29 20:01:28 2021
+
+ALERT TYPE: FALSE
+Reporting Node 	   Coord		Height		IPv4
+18                (x,y)             6177		255.127.0.0
+
+Adjacent Nodes	   Coord		Height		IPv4		
+17                (x,y)             6285		255.127.0.0
+19                (x,y)             6217		255.127.0.0
+11                (x,y)             6488		255.127.0.0
+25                (x,y)             6217		255.127.0.0
+Satellite Altimeter reading: 6955
+Satellite Altimeter report time : Fri Oct 29 20:01:28 2021
+Satellite Altimeter coord : (2,2)
+Number of matching neighbours: 4
+Total Messages send between reporting node and base station: 1
+Total Communication time taken(s): 0.006629
+Max. tolerance range between nodes readings (m): 100 
+--------------------------SUMMARY----------------------------
+Total number of alerts: 100
+True alerts: 22
+Correct rate: 0.220000
